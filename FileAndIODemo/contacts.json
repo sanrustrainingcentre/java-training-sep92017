@@ -1,0 +1,56 @@
+[
+ {
+    "first_Name": "First1",
+    "lastName": "Last1",
+    "age": 25,
+    "gender": "F",
+    "address" :
+        {
+            "residential_address":
+            {
+                "addressLine1": "RESIDENTIAL ADDRESSLINE 1",
+                "addressLine2": "",
+                "city": "",
+                "province": "",
+                "postal_code": "",
+                "country": ""
+            },
+            "office_address":
+            {
+                "addressLine1": "OFFICE ADDRESSLINE 1",
+                "addressLine2": "",
+                "city": "",
+                "province": "",
+                "postal_code": "",
+                "country": ""
+            }
+        }
+},
+{
+    "first_Name": "First2",
+    "lastName": "Last2",
+    "age": 26,
+    "gender": "F",
+    "address" :
+        {
+            "residential_address":
+            {
+                "addressLine1": "RESIDENTIAL ADDRESSLINE 1",
+                "addressLine2": "",
+                "city": "",
+                "province": "",
+                "postal_code": "",
+                "country": ""
+            },
+            "office_address":
+            {
+                "addressLine1": "OFFICE ADDRESSLINE 1",
+                "addressLine2": "",
+                "city": "",
+                "province": "",
+                "postal_code": "",
+                "country": ""
+            }
+        }
+}
+]
